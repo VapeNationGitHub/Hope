@@ -1,5 +1,9 @@
 # Hope
 
+<br> http://hmelnov.icc.ru/stud/Hope/JSHope/
+
+
+
 При помощи функции reduce
 <br>dec reduce: (alpha#beta -> beta)#beta#list(alpha) -> beta;
 <br>--- reduce(_,b,nil) <= b;
